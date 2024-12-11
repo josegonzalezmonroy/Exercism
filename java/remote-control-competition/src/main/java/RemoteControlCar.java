@@ -1,3 +1,5 @@
-public interface RemoteControlCar {
-    // TODO implement the RemoteControlCar interface
+public interface RemoteControlCar 
+{
+    public void drive();
+    public int getDistanceTravelled();
 }
